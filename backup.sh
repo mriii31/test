@@ -1,2 +1,2 @@
-xp -r ~/ ~/git/test
+cp -r ~/ ~/git/test
 #sraka-sobaka
